@@ -1,12 +1,13 @@
-# Crana <small>3.5</small>
+![](_media/logo-mid.png) 
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+# Crana <small>1.0</small>
 
-<!-- background image -->
+> CReate A Node Application
 
-![](_media/logo.png) 
+- A CLI tool to create full stack Node-React apps with 
+- Webpack, Babel, ESLint, StyleLint all preconfigured out of the box!
 
-<!-- background color -->
+[GitHub](https://github.com/scriptify/crana)
+[Get Started](#crana)
 
 ![color](#f0f0f0)
